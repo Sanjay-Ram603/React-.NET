@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|c:\\users\\sanjay.r\\onedrive - new american funding\\documents\\react-.net - task\\employeedashboardapi\\employeedashboardapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|solutionrelative:employeedashboardapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|c:\\users\\sanjay.r\\onedrive - new american funding\\documents\\react-.net - task\\employeedashboardapi\\employeedashboardapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|solutionrelative:employeedashboardapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|c:\\users\\sanjay.r\\onedrive - new american funding\\documents\\react-.net - task\\employeedashboardapi\\employeedashboardapi\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|solutionrelative:employeedashboardapi\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|c:\\users\\sanjay.r\\onedrive - new american funding\\documents\\react-.net - task\\employeedashboardapi\\employeedashboardapi\\models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|solutionrelative:employeedashboardapi\\models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|c:\\users\\sanjay.r\\onedrive - new american funding\\documents\\react-.net - task\\employeedashboardapi\\employeedashboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|solutionrelative:employeedashboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|c:\\users\\sanjay.r\\onedrive - new american funding\\documents\\react-.net - task\\employeedashboardapi\\employeedashboardapi\\employeedashboardapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F885D87F-BECB-0050-FC6B-E88066DA9822}|EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj|solutionrelative:employeedashboardapi\\employeedashboardapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "EmployeeDashboardAPI\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "EmployeeDashboardAPI\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:07:23.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EmployeeDashboardAPI\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EmployeeDashboardAPI\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:06:51.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "EmployeeDashboardAPI\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\Models\\TaskModel.cs",
+              "RelativeToolTip": "EmployeeDashboardAPI\\Models\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:05:23.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\Models\\DashboardModel.cs",
+              "RelativeDocumentMoniker": "EmployeeDashboardAPI\\Models\\DashboardModel.cs",
+              "ToolTip": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\Models\\DashboardModel.cs",
+              "RelativeToolTip": "EmployeeDashboardAPI\\Models\\DashboardModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:05:09.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeDashboardAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeDashboardAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:01:54.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDashboardAPI",
+              "DocumentMoniker": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj",
+              "ToolTip": "C:\\Users\\Sanjay.R\\OneDrive - New American Funding\\Documents\\React-.NET - Task\\EmployeeDashboardAPI\\EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj",
+              "RelativeToolTip": "EmployeeDashboardAPI\\EmployeeDashboardAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T10:01:51.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
